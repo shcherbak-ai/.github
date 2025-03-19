@@ -6,4 +6,6 @@ Shcherbak AI is an AI engineering company. Established in Oslo, Norway, in 2024,
 
 ## Contact
 
+Shcherbak AI AS
+
 Sergii Shcherbak, Founder & CEO - sergii@shcherbak.ai 

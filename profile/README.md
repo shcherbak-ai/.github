@@ -1,4 +1,4 @@
-![Shcherbak AI](assets/bg_banner.png)
+![Shcherbak AI](../assets/bg_banner.png)
 
 # Shcherbak AI
 

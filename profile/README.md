@@ -2,7 +2,7 @@
 
 # Shcherbak AI
 
-Shcherbak AI is an AI engineering company. Established in Oslo, Norway, in 2024, the company is on a mission to transform industries with state-of-the-art AI solutions. 
+AI engineering company developing tools for AI/ML/NLP developers.
 
 ## Contact
 

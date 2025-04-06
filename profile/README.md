@@ -2,10 +2,14 @@
 
 # Shcherbak AI
 
-AI engineering company developing tools for AI/ML/NLP developers.
+AI engineering company building tools for AI/ML/NLP developers. Now part of Microsoft for Startups.
 
-## Contact
+## 💎 ContextGem
+
+We just released [ContextGem](https://github.com/shcherbak-ai/contextgem), a free, open-source LLM framework for easier, faster extraction of structured data and insights from documents through powerful abstractions.
+
+## 📨 Contact
 
 Shcherbak AI AS
 
-Sergii Shcherbak, Founder & CEO - sergii@shcherbak.ai 
+Sergii Shcherbak, Founder & CEO - sergii@shcherbak.ai

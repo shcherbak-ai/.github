@@ -1,4 +1,4 @@
-![Shcherbak AI](../assets/bg_banner.png)
+![Shcherbak AI](../assets/shcherbak_ai_github_banner.png)
 
 # Shcherbak AI
 
@@ -6,7 +6,7 @@ AI engineering company building tools for AI/ML/NLP developers. Now part of Micr
 
 ## 💎 ContextGem
 
-We just released [ContextGem](https://github.com/shcherbak-ai/contextgem), a free, open-source LLM framework for easier, faster extraction of structured data and insights from documents through powerful abstractions.
+We released [ContextGem](https://github.com/shcherbak-ai/contextgem), a free, open-source LLM framework for radically easier extraction of structured data from documents.
 
 ## 📨 Contact
 
